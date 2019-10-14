@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PastPaper</string>
+    <string-array name="photo_category_list">
+        <item>Landscape</item>
+        <item>Wildlife</item>
+        <item>Portrait</item>
+        <item>Wedding</item>
+        <item>Fashion</item>
+        <item>Black and White</item>
+    </string-array>
+</resources>
